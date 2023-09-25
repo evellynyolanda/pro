@@ -1,2 +1,18 @@
+*{
+      margin: 0;
+      padding: 0;
+ }
 
-    
+
+ header {
+     background-color: #424E61;
+     color: white;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 24px 0;
+ }
+ .cabeçalho-lista-item{
+    display: inline-block;
+    padding: 24px;
+ }
